@@ -1,7 +1,6 @@
 # Duck-Clicker
 
-READ THIS NOW FOR INFO PLSS
-(im going to be stalling on this game for a bit to make a different game so uhmmm yeah go check it out once im done with it.)
+FUNKY CHEESE
 
 This is a clicker game of mine with a duck.
 
